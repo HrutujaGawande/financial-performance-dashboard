@@ -13,7 +13,7 @@ This project analyzes company financials using Power BI and a comprehensive data
 ## 📁 Folder Structure
 financial-performance-dashboard/
 │
-├── data/                 # financial_data.csv
+├── data/                 # financial_data.csv | financial_data_cleaned.xlsx
 ├── powerbi/              # Financial_Performance_Dashboard.pbix
 ├── screenshots/          # Dashboard screenshots
 ├── docs/                 # Project report in Markdown or PDF
